@@ -15,7 +15,17 @@ public class UserApplication {
 
 	
 	
-
+	/* Bash Script
+	 * public void run(String... args) throws Exception { try { File file =
+	 * ResourceUtils.getFile("classpath:" + "script.sh");
+	 * Runtime.getRuntime().exec(file.toString()); } catch(IOException e) {
+	 * e.printStackTrace(); }
+	 * 
+	 * }
+	 */
+	 
+	
+	
 	
 	
 	/* Bash Script
